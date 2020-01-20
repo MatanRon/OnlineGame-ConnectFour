@@ -1,6 +1,5 @@
 # Connect-Four
 In this project I implemented an online version of my favorite children's game: "Connect Four". 
-
 Chat between players is also included :)
 
 
